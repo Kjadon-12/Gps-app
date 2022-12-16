@@ -1,0 +1,159 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(54, 51, 8);
+}
+
+.App {
+  border: 2px solid yellow;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  height: 585px;
+  margin-left: 38px;
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+/*GPS DATA*/
+
+
+
+th,td {
+  border: 1px solid yellowgreen;
+  background-color: white;
+}
+
+.table1 {
+  width: 200%;
+  position: relative;
+  border-collapse: collapse;
+
+
+  left: -208px;
+  height: 400px;
+  border: 1px solid yellowgreen;
+
+
+}
+.table2 {
+  width:65%;
+  position: relative;
+  border-collapse: collapse;
+  margin-left: -450px;
+  margin-bottom: 246px;
+  height: 400px;
+  border: 1px solid yellowgreen;
+}
+
+
+
+.search-box {
+  border: 2px solid yellow;
+  border-radius: 300px;
+  width: 240px;
+  height: 25px;
+  margin-left: -200px;
+}
+
+.title {
+  color: white;
+  margin-left: -200px;
+}
+
+.container-login {
+  background-color: rgb(212, 236, 122);
+  width: 500px;
+  height: 320px;
+  border: 2px solid yellow;
+  border-radius: 20px;
+}
+
+
+
+/*login*/
+.login-input  {
+  border: 2px solid rgb(106, 116, 19);
+  border-radius: 20px;
+  width:340px ;
+  height: 42px;
+  margin-left: 77px;
+}
+.new-user {
+  margin-left: 211px;
+  
+}
+.label-login {
+  margin-left: 180px;
+}
+.titleL {
+  margin-left: 211px;
+}
+
+.pagen {
+  color: white;
+  margin-left: 466px;
+  margin-top: -29px;
+  
+}
+.rightbtn {
+  margin-left: 83px;
+  margin-top: -50px;
+}
+.leftbtn {
+  margin-left: 375px;
+  margin-top: -50px;
+}
+
+.detailId {
+color: white;
+margin-top: 206px;
+margin-left: -660px;
+}
+
+.detailName {
+margin-left: -660px;
+color: white;
+margin-top: -18px;
+}
+
+
+.detailTable {
+  width:39%;
+  
+  height: 400px;
+}
+.tableP {
+  margin-top: -84px;
+  margin-left: 68px;
+}
+.title2{
+  color: white;
+  margin-left: 93px;
+  height: 200px;
+  margin-top: -67px;
+  
+}
+
+.pie{
+  margin-left: 637px;
+  margin-top: -388px;
+}
+
+
+.timeD {
+  color: white;
+  margin-left: 549px;
+  margin-top: 20px;
+}
+.btn {
+  cursor: pointer;
+}
