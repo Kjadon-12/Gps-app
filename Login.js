@@ -39,7 +39,7 @@ function Login() {
         
         
         console.log(email, password)
-        let result = await fetch('http://localhost:5006/login', {
+        let result = await fetch('http://localhost:5002/login', {
             method: 'POST',
             body: JSON.stringify( {email, password }),
             headers: {
